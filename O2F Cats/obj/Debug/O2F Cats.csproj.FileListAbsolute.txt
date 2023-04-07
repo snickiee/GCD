@@ -1,0 +1,8 @@
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\bin\Debug\O2F Cats.exe.config
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\bin\Debug\O2F Cats.exe
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\bin\Debug\O2F Cats.pdb
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\obj\Debug\O2F Cats.csproj.AssemblyReference.cache
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\obj\Debug\O2F Cats.csproj.SuggestedBindingRedirects.cache
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\obj\Debug\O2F Cats.csproj.CoreCompileInputs.cache
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\obj\Debug\O2F Cats.exe
+E:\Документы 1\Visual Studio 2023\Projects\СSharpCourse\O2F Cats\O2F Cats\obj\Debug\O2F Cats.pdb
